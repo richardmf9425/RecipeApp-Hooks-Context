@@ -19,13 +19,14 @@
 .search-label {
   display: flex;
   justify-content: center;
-
+  padding-top: 30px;
   margin: 0px;
+
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .search-button {
-  background: lightcoral;
+  background: rgb(230, 36, 36);
   border: none;
   padding: 10px 20px;
   color: white;
