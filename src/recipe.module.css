@@ -1,6 +1,6 @@
 .recipe {
     border-radius: 10px;
-    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    box-shadow: 0px 5px 20px #4b4b4b;
     margin: 20px;
     display: flex;
     flex-direction: column;
@@ -27,4 +27,9 @@
     margin: 25px;
     text-decoration: none;
     border-radius: 5px;
+}
+
+.title {
+    color: #4a0483;
+
 }
